@@ -1,4 +1,6 @@
 {
-    "public": "public"
+    "rewrites": [
+      { "source": "/", "destination": "/nithish_resume.pdf" }
+    ]
   }
   
