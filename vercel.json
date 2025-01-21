@@ -1,6 +1,6 @@
 {
     "rewrites": [
-      { "source": "/", "destination": "/nithish_resume.pdf" }
+      { "source": "/", "destination": "/updated_resume.pdf" }
     ]
   }
   
